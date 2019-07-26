@@ -1,0 +1,60 @@
+,f1-score,precision,recall,support
+Expenses::Business Phone::Mobile Phone Bill,1.0,1.0,1.0,36.0
+Expenses::Business Vehicle::Fuel,0.8605577689243028,0.8120300751879699,0.9152542372881356,118.0
+Expenses::Business Vehicle::Maintenance & Tyres,0.8181818181818181,0.6923076923076923,1.0,9.0
+Expenses::Business Vehicle::Parking & Tolls,0.962962962962963,0.9285714285714286,1.0,78.0
+Expenses::Business Vehicle::Registration & Wof,0.4,1.0,0.25,4.0
+Expenses::Charities & Donations::Charities & Donations,0.6,0.75,0.5,6.0
+Expenses::Commercial Office::Office Rent,0.888888888888889,1.0,0.8,5.0
+Expenses::General Business::Advertising/Marketing,1.0,1.0,1.0,1.0
+Expenses::General Business::Bank Fees,0.9873417721518987,0.9915254237288136,0.9831932773109243,119.0
+Expenses::General Business::Clothing & Apparel,0.7789473684210526,0.7708333333333334,0.7872340425531915,47.0
+Expenses::General Business::Clubs & Memberships,0.8235294117647058,1.0,0.7,10.0
+Expenses::General Business::Digital Products & Services,0.9608938547486032,0.9247311827956989,1.0,86.0
+Expenses::General Business::Electronics/General Merchandise,0.736842105263158,0.813953488372093,0.6730769230769231,104.0
+Expenses::General Business::Groceries,0.9821615949632738,0.9915254237288136,0.972972972972973,481.0
+Expenses::General Business::Hirage,1.0,1.0,1.0,4.0
+Expenses::General Business::Postage/Shipping,0.5454545454545454,0.75,0.42857142857142855,7.0
+Expenses::General Business::Printing & Stationary,0.823529411764706,0.875,0.7777777777777778,9.0
+Expenses::General Business::Sub Contractor,1.0,1.0,1.0,2.0
+Expenses::General Business::Tools & Materials,0.9302325581395349,1.0,0.8695652173913043,23.0
+Expenses::Home Office::Home Insurance,1.0,1.0,1.0,5.0
+Expenses::Home Office::Home Rennovation,0.4444444444444445,0.5,0.4,5.0
+Expenses::Home Office::Internet & Phone,0.9047619047619048,0.9047619047619048,0.9047619047619048,21.0
+Expenses::Home Office::Mortgage Interest,1.0,1.0,1.0,9.0
+Expenses::Home Office::Power/Gas,1.0,1.0,1.0,17.0
+Expenses::Home Office::Rates,0.5714285714285715,1.0,0.4,5.0
+Expenses::Home Office::Rent,0.9843749999999999,0.9692307692307692,1.0,63.0
+Expenses::Home Office::Repairs & Maintenance,0.41379310344827586,0.375,0.46153846153846156,13.0
+Expenses::International Work Travel::International Flights,0.6666666666666666,1.0,0.5,2.0
+Expenses::International Work Travel::Overseas Accommodation,0.5,0.6666666666666666,0.4,5.0
+Expenses::International Work Travel::Overseas Food & Drink,0.2857142857142857,0.4,0.2222222222222222,9.0
+Expenses::International Work Travel::Overseas Transport,0.4,1.0,0.25,4.0
+Expenses::Meals & Entertainment::Entertainment/Recreation,0.8736842105263158,0.8645833333333334,0.8829787234042553,94.0
+Expenses::Meals & Entertainment::Food & Drink,0.9442538593481988,0.9306846999154691,0.95822454308094,1149.0
+Expenses::National Work Travel::Accommodation,0.38095238095238093,0.5714285714285714,0.2857142857142857,14.0
+Expenses::National Work Travel::Domestic Flights,0.9411764705882353,0.8888888888888888,1.0,8.0
+Expenses::National Work Travel::Transport,0.9308755760368663,0.9181818181818182,0.9439252336448598,107.0
+Expenses::Other::Healthcare/Medical,0.9473684210526315,0.9473684210526315,0.9473684210526315,19.0
+Expenses::Other::Investment,0.9090909090909091,1.0,0.8333333333333334,6.0
+Expenses::Other::Mortgage Payment,1.0,1.0,1.0,10.0
+Expenses::Other::Personal Care (Hair & Beauty),1.0,1.0,1.0,9.0
+Expenses::Other::Personal Expense,0.8165137614678899,0.839622641509434,0.7946428571428571,112.0
+Expenses::Other::Pets/Pet Care,1.0,1.0,1.0,1.0
+Expenses::Other::Taxes,1.0,1.0,1.0,2.0
+Expenses::Other::Tickets & Fines,0.8571428571428571,1.0,0.75,4.0
+Expenses::Other::Transfers,0.9948717948717948,0.9897959183673469,1.0,97.0
+Expenses::Rental Property::Property Management,1.0,1.0,1.0,1.0
+Expenses::Rental Property::Rental Renovations,0.625,0.625,0.625,16.0
+Income::Income::Benefit Income,1.0,1.0,1.0,13.0
+Income::Income::Overseas Income,1.0,1.0,1.0,3.0
+Income::Income::Personal Payment,0.9230769230769231,0.9230769230769231,0.9230769230769231,78.0
+Income::Income::Refund,0.3333333333333333,0.6666666666666666,0.2222222222222222,9.0
+Income::Income::Rental Income,1.0,1.0,1.0,22.0
+Income::Income::Salary & Wages,0.9841269841269841,0.96875,1.0,31.0
+Income::Income::Schedular Payment,1.0,1.0,1.0,19.0
+Income::Income::Self-Employed Income,0.923076923076923,0.96,0.8888888888888888,27.0
+Income::Income::Transfers,0.9931972789115647,0.9864864864864865,1.0,73.0
+accuracy,0.9257195914577531,0.9257195914577531,0.9257195914577531,0.9257195914577531
+macro avg,0.8330080307445965,0.896369138528442,0.8080632838754722,3231.0
+weighted avg,0.9226577233894347,0.9244175330790625,0.9257195914577531,3231.0

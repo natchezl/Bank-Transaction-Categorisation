@@ -1,0 +1,9 @@
+utils/__pycache__
+__pycache__
+Transaction Data
+
+*.pyc
+
+GLOVE_6B_100D.p
+GLOVE_6B_50D.p
+GLOVE_840B_300D.p

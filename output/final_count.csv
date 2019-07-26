@@ -1,0 +1,57 @@
+label,Train,Test,Total
+Expenses::Business Phone::Mobile Phone Bill,166,36,202
+Expenses::Business Vehicle::Fuel,452,118,570
+Expenses::Business Vehicle::Maintenance & Tyres,54,9,63
+Expenses::Business Vehicle::Parking & Tolls,304,78,382
+Expenses::Business Vehicle::Registration & Wof,14,4,18
+Expenses::Charities & Donations::Charities & Donations,18,6,24
+Expenses::Commercial Office::Office Rent,9,5,14
+Expenses::General Business::Advertising/Marketing,19,1,20
+Expenses::General Business::Bank Fees,407,119,526
+Expenses::General Business::Clothing & Apparel,167,47,214
+Expenses::General Business::Clubs & Memberships,50,10,60
+Expenses::General Business::Digital Products & Services,379,86,465
+Expenses::General Business::Electronics/General Merchandise,441,104,545
+Expenses::General Business::Groceries,1889,481,2370
+Expenses::General Business::Hirage,18,4,22
+Expenses::General Business::Postage/Shipping,35,7,42
+Expenses::General Business::Printing & Stationary,37,9,46
+Expenses::General Business::Sub Contractor,12,2,14
+Expenses::General Business::Tools & Materials,64,23,87
+Expenses::Home Office::Home Insurance,5,5,10
+Expenses::Home Office::Home Rennovation,18,5,23
+Expenses::Home Office::Internet & Phone,79,21,100
+Expenses::Home Office::Mortgage Interest,30,9,39
+Expenses::Home Office::Power/Gas,80,17,97
+Expenses::Home Office::Rates,37,5,42
+Expenses::Home Office::Rent,249,63,312
+Expenses::Home Office::Repairs & Maintenance,59,13,72
+Expenses::International Work Travel::International Flights,16,2,18
+Expenses::International Work Travel::Overseas Accommodation,37,5,42
+Expenses::International Work Travel::Overseas Food & Drink,26,9,35
+Expenses::International Work Travel::Overseas Transport,21,4,25
+Expenses::Meals & Entertainment::Entertainment/Recreation,414,94,508
+Expenses::Meals & Entertainment::Food & Drink,4631,1149,5780
+Expenses::National Work Travel::Accommodation,54,14,68
+Expenses::National Work Travel::Domestic Flights,30,8,38
+Expenses::National Work Travel::Transport,343,107,450
+Expenses::Other::Healthcare/Medical,86,19,105
+Expenses::Other::Investment,27,6,33
+Expenses::Other::Mortgage Payment,29,10,39
+Expenses::Other::Personal Care (Hair & Beauty),65,9,74
+Expenses::Other::Personal Expense,424,112,536
+Expenses::Other::Pets/Pet Care,13,1,14
+Expenses::Other::Taxes,11,2,13
+Expenses::Other::Tickets & Fines,10,4,14
+Expenses::Other::Transfers,456,97,553
+Expenses::Rental Property::Property Management,19,1,20
+Expenses::Rental Property::Rental Renovations,66,16,82
+Income::Income::Benefit Income,41,13,54
+Income::Income::Overseas Income,9,3,12
+Income::Income::Personal Payment,257,78,335
+Income::Income::Refund,32,9,41
+Income::Income::Rental Income,91,22,113
+Income::Income::Salary & Wages,133,31,164
+Income::Income::Schedular Payment,82,19,101
+Income::Income::Self-Employed Income,111,27,138
+Income::Income::Transfers,294,73,367

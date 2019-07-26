@@ -1,0 +1,12 @@
+index,Score
+isExpense+isAcctNo+isOverseas,0.8217113548345247
+isExpense+isAcctNo+isOverseas+isForeignCurr,0.8208523518098708
+isExpense+isAcctNo,0.8201545107084603
+isExpense+isAcctNo+isForeignCurr,0.8193497432701161
+isExpense,0.8157420702205618
+isAcctNo,0.8091764511039381
+baseline,0.8051660190493314
+isOverseas,0.8048369403217382
+isForeignCurr,0.804124016071784
+isWeekday,0.7886703128194144
+Amount,0.7786433486955537
